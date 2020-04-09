@@ -23,6 +23,7 @@ These actions can waste your extra weekend time
     - Losing 180 Min in a week - equates to all weekend time lost regardless of time earned
 ### Usage
 Using time is a time honored passed time.
+
     - Gametime/TV-time may be used only during the weekend
-    - Each child allotted 1 hour Gametime/TV-time per weekday (non-transferable)
+    - Each child allotted 2 hour Gametime/TV-time per weekday (non-transferable)
     - Unused weekday gametime allotment is lost after 8pm
