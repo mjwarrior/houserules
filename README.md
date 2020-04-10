@@ -15,7 +15,7 @@ The basics enable many things. Read below.
 ### Earning
 These actions can earn you extra weekend time
     
-    - Get dad up such that he is working out by 4:30 (+30 Mins)
+    - Get dad up such that he is working out by 4:30am (+30 Mins ea/day, or +1 hour ea/day if done for Mon-Sat)
     - *more to come if you have ideas*
 
 ### Losing
@@ -33,3 +33,4 @@ Using time is a time honored passed time.
     - Each child allotted 2 hour Gametime/TV-time per weekday (non-transferable)
     - Unused weekday gametime allotment is lost after 8pm
     - Rules are not retro-active (can't enforce a rule until it's written)
+    - weekend gametime starts at 6am and counts down from that point (ex: you have earned 3 hours game time, your time to play is up after 9am)
