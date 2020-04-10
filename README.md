@@ -9,6 +9,7 @@ The basics enable many things. Read below.
     - House must be clean
     - Homework must be done
     - Clothing Must be ready for next day
+    - No playing on school days after 8am or before 4pm
     - Every Week starts with 4 hours time for each child
 
 ### Earning
