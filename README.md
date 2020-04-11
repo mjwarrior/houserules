@@ -15,7 +15,7 @@ These actions can earn you extra weekend time
     
     - Get dad up such that he is working out by 4:30 (+30 Mins)
     - Exercising on the treadmill for at least 1 hour to earn (+30 Mins)
-    - Mowing the back or front part of the lawn and trimming it earns you (+1 hour)
+    - Mowing the entire lawn (complete with trimming) (+1 hour)
     - *more to come if you have ideas*
 ### Losing
 These actions can waste your extra weekend time
