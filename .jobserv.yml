@@ -1,0 +1,14 @@
+timeout: 10
+triggers:
+  - name: merge-request
+    type: github_pr
+    runs:
+      - name: markdown validate
+        container: python:3.6-alpine
+        host-tag: amd64
+        script: flake8
+scripts:
+  markdown: |
+    #!/bin/sh -ex
+    pip3 install markdown2
+    markdown2 README.md > README.html
