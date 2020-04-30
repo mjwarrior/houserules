@@ -7,6 +7,16 @@ triggers:
         container: python:3.6-alpine
         host-tag: amd64
         script: flake8
+  - name: git
+    type: git_poller
+    params:
+      GIT_URL: https://github.com/PyCQA/flake8
+      GIT_POLL_REFS: "refs/heads/master"
+    runs:
+      - name: markdown validate
+        container: python:3.6-alpine
+        host-tag: amd64
+        script: flake8
 scripts:
   markdown: |
     #!/bin/sh -ex
