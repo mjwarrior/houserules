@@ -1,0 +1,24 @@
+timeout: 10
+triggers:
+  - name: merge-request
+    type: github_pr
+    runs:
+      - name: markdown validate
+        container: python:3.6-alpine
+        host-tag: amd64
+        script: flake8
+  - name: git
+    type: git_poller
+    params:
+      GIT_URL: https://github.com/PyCQA/flake8
+      GIT_POLL_REFS: "refs/heads/master"
+    runs:
+      - name: markdown validate
+        container: python:3.6-alpine
+        host-tag: amd64
+        script: flake8
+scripts:
+  markdown: |
+    #!/bin/sh -ex
+    pip3 install markdown2
+    markdown2 README.md > README.html
