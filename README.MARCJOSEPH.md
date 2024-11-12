@@ -2,14 +2,14 @@
 general Usage Rules
 
 1.	The vehicle can only go to church, school, and restaurants. All other destinations require permission.
-2.	Passengers are limited to Katrina Wills and family. Any other passengers require permission.
-3.	The car must be kept clean at all times.
+2. Passengers are limited to Mom and/or Dad. No other passengers (including siblings) are currently allowed. Exceptions require permission for each occurrence.
+3.	The car must be kept clean, no trash or food will be present upon exiting the vehicle.
 
 
 ## Gas Maintenance and Fueling
 maintenance considerations
 
-1.	Gas will be provided only for to and from school; any personal outings are under your responsibility for fuel costs. For personal outings not related to schooling or church, fuel usage must be calculated in advance and paid for by you. Maintenance of the vehicle will be done by you unless someone else damages it or puts it in a position where it could be damaged. Insurance for the car is your responsibility.
+1. Gas will be provided only for trips to and from school,church, work or job interviews; any personal outings are your financial responsibility. For personal outings not related to schooling or the above, fuel usage must be calculated in advance and paid for by you. Parents will contribute $100 for maintenance every two months, and the car may not be driven unless it meets maintenance standards. The car should never be brought home with less than 1/4 of a tank. Insurance for the car is your responsibility.
 ### Scheduling 	
 blurb
 
@@ -24,7 +24,8 @@ blurb
 ## Ownership 
 1.	Any items in the car that belong to you, and are used, will remain your property. If the vehicle is revoked, any and all items inside the car that are yours must be returned or compensated for accordingly.
 
-
+## Permission
+1. Permission is granted if a pull request is accepted.
 
 
 
