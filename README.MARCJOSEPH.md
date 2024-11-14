@@ -9,7 +9,7 @@ general Usage Rules
 ## Gas Maintenance and Fueling
 maintenance considerations
 
-1. Gas will be provided only for trips to and from school,church, work or job interviews; any personal outings are your financial responsibility. For personal outings not related to schooling or the above, fuel usage must be calculated in advance and paid for by you. Parents will contribute $100 for maintenance every two months, and the car may not be driven unless it meets maintenance standards. The car should never be brought home with less than 1/4 of a tank. Insurance for the car is your responsibility.
+1. Gas will be provided only for trips to and from school,church, work or job interviews; any personal outings are your financial responsibility. For personal outings not related to schooling or the above, fuel usage must be calculated in advance and paid for by you. Parents will contribute $100 for maintenance every two months and $60 for fuel weekly, the car may not be driven unless it meets maintenance standards. The car should never be brought home with less than 1/4 of a tank. Insurance for the car is your responsibility.
 ### Scheduling 	
 blurb
 
@@ -25,7 +25,7 @@ blurb
 1.	Any items in the car that belong to you, and are used, will remain your property. If the vehicle is revoked, any and all items inside the car that are yours must be returned or compensated for accordingly.
 
 ## Permission
-1. Permission is granted if a pull request is accepted.
+1. Permission is granted if a pull request is accepted. The pull request must be made in the file named "REQUESTLOG.MARCJOSEPH.md. On a pull request issue the date and time it was made on top of the passenger or destinations name.
 
 
 
