@@ -20,7 +20,7 @@ blurb
   - The first strike will result in the removal of personal outings, such as visiting friends.
   - The second strike will result in the removal of food-related outings.
   - The third strike serves as a final warning.
-    Any additional strikes will lead to permanent revocation of vehicle usage. Strikes will be issued if any rule is violated, and they reset monthly.
+    Any additional strikes will lead to a revocation up to month of vehicle usage. Strikes will be issued if any rule is violated, and they reset monthly.
 ## Ownership 
 1.	Any items in the car that belong to you, and are used, will remain your property. If the vehicle is revoked, any and all items inside the car that are yours must be returned or compensated for accordingly.
 
