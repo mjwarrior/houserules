@@ -1,7 +1,7 @@
 # Car Rules 
 general Usage Rules
 
-1.	The vehicle can only go to church, school, and restaurants. All other destinations require permission.
+1.	The vehicle can only go to church, school, and restaurants (that are in a 20 mile radius from your current location). All other destinations require permission.
 2. Passengers are limited to Mom and/or Dad. No other passengers (including siblings) are currently allowed. Exceptions require permission for each occurrence.
 3.	The car must be kept clean, no trash or food will be present upon exiting the vehicle.
 
