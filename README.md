@@ -45,8 +45,10 @@ Using time is a time honored passed time.
     Pending Approval
         - INSURGENCY:SANDSTORM 
             LINKS
-                Steam - https://store.steampowered.com/app/581320/Insurgency_Sandstorm/  
-                IGN - https://youtu.be/mlWWILcsIao?si=oGCb9PcsW5prl53Q
+                Steam - [https://store.steampowered.com/app/581320/Insurgency_Sandstorm/](url)  
+                IGN - [https://youtu.be/mlWWILcsIao?si=oGCb9PcsW5prl53Q](url)
+                Settings - [https://youtu.be/5Lo2tHDqNJU?si=Qjpeva4ppfTqQ2cf](url)
+                    Time | 16:04 (Dismemberment ** Sidenote video goes over all settings.) 
           
 
     Approved Games
