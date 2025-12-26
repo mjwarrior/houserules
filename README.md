@@ -37,3 +37,23 @@ Using time is a time honored passed time.
     - Unused daily weekday game time allotment is lost after 8pm
     - Rules are not retro-active (can't enforce a rule until it's written)
     - Weekend gametime starts at 6am Saturday and counts down from that point (eg. 3 hours earned game time expires at 9am)
+
+
+### Pending and Approved Games
+
+
+    Pending Approval
+        - INSURGENCY:SANDSTORM 
+            LINKS
+                Steam - https://store.steampowered.com/app/581320/Insurgency_Sandstorm/  
+                IGN - https://youtu.be/mlWWILcsIao?si=oGCb9PcsW5prl53Q
+          
+
+    Approved Games
+        - Minecraft
+        
+
+
+
+
+    
