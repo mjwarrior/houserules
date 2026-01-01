@@ -43,17 +43,22 @@ Using time is a time honored passed time.
 
 
     Pending Approval
-        - INSURGENCY:SANDSTORM 
+        - Chivalry 2 
             LINKS
-                Steam - [https://store.steampowered.com/app/581320/Insurgency_Sandstorm/](url)  
-                IGN - [https://youtu.be/mlWWILcsIao?si=oGCb9PcsW5prl53Q](url)
-                Settings - [https://youtu.be/5Lo2tHDqNJU?si=Qjpeva4ppfTqQ2cf](url)
-                    Time | 16:04 (Dismemberment ** Sidenote video goes over all settings.) 
-          
+                Steam - [Link Text](https://store.steampowered.com/app/1824220/Chivalry_2/)
+                IGN - [Link Text](https://youtu.be/0Gxck0RZmAU?si=CzL-ltoA3kggGPUR)
+                Setttings [Link Text](https://youtu.be/o21klHuZ_xw?si=-_LoMjlLfbrygy2P)
+                    Time | 6:35 (Gore options ** Sidenote this is seen briefly but if the video is paused it can be seen clearly)
 
     Approved Games
         - Minecraft
-        
+        - INSURGENCY:SANDSTORM 
+            LINKS
+                Steam - [Link Text](https://store.steampowered.com/app/581320/Insurgency_Sandstorm/)  
+                IGN - [Link Text](https://youtu.be/mlWWILcsIao?si=oGCb9PcsW5prl53Q)
+                Settings - [Link Text](https://youtu.be/5Lo2tHDqNJU?si=Qjpeva4ppfTqQ2cf)
+                    Time | 16:04 (Dismemberment ** Sidenote video goes over all settings.) 
+          
 
 
 
